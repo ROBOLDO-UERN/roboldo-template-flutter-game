@@ -1,0 +1,9 @@
+{
+  "id": "br.uern.lar.roboldo.novo_jogo",
+  "name": "Novo Jogo Educativo do Roboldo",
+  "version": "1.0.0",
+  "category": "educacao-gamificacao",
+  "zona": "Zona 5: Gamificação, Apps & Lojinha",
+  "author": "Equipe ROBOLDO - LAR/UERN",
+  "permissions": ["tts", "display_faces", "touch_sensors"]
+}

@@ -1,0 +1,11 @@
+name: Flutter Game & App CI/CD (ROBOLDO Template)
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  flutter-ci:
+    uses: ROBOLDO-UERN/.github/.github/workflows/reusable-flutter-ci.yml@main
